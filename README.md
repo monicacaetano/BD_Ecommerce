@@ -1,4 +1,4 @@
-# Modelando um projeto conceitual/lógico de bancos de dados para um cenário de E-commerce
+# Refinando um projeto conceitual/lógico de bancos de dados para um cenário de E-commerce
 
 Desafio de projeto do Bootcamp "Geração Tech Unimed-BH - Ciência de Dados", em parceria com a Digital Innovation One.
 
